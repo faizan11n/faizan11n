@@ -56,20 +56,20 @@
 
 ### Hello, I'm Faizan.
 
-I'm an **Entry-Level DevOps Engineer** focused on building practical skills in **cloud infrastructure, automation, containerization, orchestration, and CI/CD**.
+I'm an **Entry-Level DevOps Engineer** focused on building practical skills in **cloud infrastructure, automation, containerization, orchestration, and CI/CD, infrastructure automation, and Linux administration**.
 
 My current focus is turning manual infrastructure and deployment workflows into **repeatable, automated, and version-controlled systems**.
 
 I work with technologies including:
 
-- ☁️ **AWS & Azure**
+- ☁️ **AWS Cloud & Azure**
+- 🐧 **Linux Administration**
 - 🐳 **Docker & Containerization**
 - ☸️ **Kubernetes**
-- 🏗️ **Terraform & Infrastructure as Code**
-- ⚙️ **Ansible**
+- 🏗️ **Terraform / Infrastructure as Code**
+- ⚙️ **Ansible Automation**
 - 🔄 **Jenkins CI/CD**
 - 🐙 **Git & GitHub**
-- 🐧 **Linux**
 - 🐍 **Python & Bash Scripting**
 
 I'm continuously building hands-on projects to strengthen my understanding of **DevOps practices and cloud-native infrastructure**.
