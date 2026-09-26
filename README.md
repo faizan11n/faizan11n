@@ -76,6 +76,9 @@ I'm continuously building hands-on projects to strengthen my understanding of **
 
 > **Build → Automate → Deploy → Monitor → Improve**
 
+🎯 **Currently: Open to full-time DevOps / Cloud opportunities while continuing to strengthen my practical engineering skills.**
+
+
 </td>
 
 <td width="35%" align="center">
